@@ -1,38 +1,52 @@
-```markdown
 # Mega Calculator
 
 ## Overview
-Mega Calculator is a C++ program that includes advanced features like maze generation and pathfinding. It generates a random maze, uses Depth-First Search (DFS) to find a path from the start to the end, and displays the maze with the solution. The program handles edge cases and ensures efficient traversal of the maze.
+
+Mega Calculator is a powerful and user-friendly calculator application designed to handle a wide range of mathematical operations, from basic arithmetic to advanced scientific functions.
 
 ## Features
-- Random maze generation with walls and open spaces.
-- Depth-First Search (DFS) for pathfinding.
-- Path visualized as a sequence of steps.
-- Error handling for invalid maze configurations.
-- Simple user input for maze dimensions.
+
+- **Basic Arithmetic:** Perform addition, subtraction, multiplication, and division with ease.
+- **Scientific Functions:** Utilize trigonometry, logarithms, exponents, and other advanced calculations.
+- **Memory Functions:** Store and recall values for more efficient computations.
+- **User-Friendly Interface:** Enjoy intuitive controls designed for a seamless experience.
 
 ## Installation
-1. Clone this repository or download the files to your local machine.
-2. Ensure you have a C++ compiler (e.g., GCC or Visual Studio).
-3. Compile and run the `main.cpp` file using your preferred IDE or terminal.
 
-```bash
-g++ main.cpp -o MegaCalculator
-./MegaCalculator
-```
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/yourusername/mega-calculator.git
+   ```
+2. **Navigate to the project directory:**
+   ```sh
+   cd mega-calculator
+   ```
+3. **Compile the source code (if applicable):**
+   ```sh
+   make
+   ```
 
 ## Usage
-1. The program will generate a random maze.
-2. It will then attempt to find a path from the top-left corner to the bottom-right corner using Depth-First Search.
-3. The maze and the solution path will be displayed.
+
+Run the application with:
+
+```sh
+./mega_calculator
+```
+
+Follow the on-screen instructions to perform calculations.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit pull requests or report issues to help improve Mega Calculator.
 
 ## License
+
 This project is licensed under the MIT License.
 
-## Contributions
-Feel free to fork the repository, submit issues, or create pull requests for improvements!
-
 ## Contact
-For any questions or feedback, please contact [ks683557@gmail.com].
-```
+
+For any queries, feel free to reach out:
+
+📧 **Email:** ks683557@gmail.com
 
